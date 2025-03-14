@@ -13,7 +13,7 @@
 
 ## Figma LOGO:
 
-![Figma LOGO](Figma LOGO.svg)
+![Figma LOGO](<Figma LOGO.svg>)
 
 Посилання на проєкт у [Figma](https://www.figma.com/design/NM04cju32dBtpFp5MzMI7l/Figma-LOGO?node-id=0-1&t=tuZFIxSZDQO5QRmx-1)
 
